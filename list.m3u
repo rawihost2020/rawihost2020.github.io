@@ -61,3 +61,19 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-id="Future TV ARB" tvg-name="Future TV ARB" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://futuretvnetwork.com/images/logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",Future TV (486p)
 https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PEFW4Vy.png" group-title="",MusawaChannel (404p)
+http://htvpalsat.mada.ps:8888/musawa/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IL" tvg-language="Arabic" tvg-logo="https://i.imgur.com/OzjftEl.png" tvg-url="" group-title="",Hala TV (1080p)
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+EXTINF:-1 tvg-id="Kan 11-IS" tvg-name="IL: Kan 11" tvg-country="IL" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/vqfNbEU.png" tvg-url="" group-title="",Kan 11
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IL" tvg-language="Hebrew" tvg-logo="" tvg-url="" group-title="",Keshet 12 (720p)
+https://iptv--iptv.repl.co/Hebrew/keshet_12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IL" tvg-language="Hebrew" tvg-logo="" tvg-url="" group-title="",Ynet Live (720p)
+https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
+#EXTINF:-1 tvg-id="Kan 23-IS" tvg-name="IL: Kan 23" tvg-country="IL" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png" tvg-url="" group-title="Kids",ch 23 החינוכית
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IL" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/NmnXn2z.jpg" tvg-url="" group-title="News",Channel 2 News (720p)
+https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/7f/c9/59/47d865784878303.jpg" group-title="עידן+",ch 33 כאן
+https://62-90-90-52.vidnt.com/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/chunklist_w48594442_b1928000.m3u8?ttl=1521305805&cdn_token=ab3709e2615d22dacf910f3d553f630c|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
