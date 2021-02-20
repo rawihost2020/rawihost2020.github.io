@@ -79,7 +79,8 @@ https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 https://62-90-90-52.vidnt.com/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/chunklist_w48594442_b1928000.m3u8?ttl=1521305805&cdn_token=ab3709e2615d22dacf910f3d553f630c|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
 #EXTINF:-1 tvg-id="OTV Lebanon ARB" tvg-name="OTV Lebanon ARB" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",OTV (1080p)
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/CBC.eg.png" group-title="مَصر",CBC
 http://digitalxpress.gcdn.co/live1/CBC/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/il/Makan33.il.png" group-title="ישראל",مكان
+https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_2.5k/chunklist.m3u8
 
