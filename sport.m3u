@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="|BEIN-SP| beIN Sports PREMIUM 1 FHD" tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium1.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 1 FHD
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="beIN 1 FHD" tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium1.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 1 FHD
 http://megaott.cx:80/996325485901473/628609216682000/188869
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="|BEIN-SP| beIN Sports PREMIUM 2 FHD" tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium2.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 2 FHD
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="beIN 2 FHD" tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium2.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 2 FHD
 http://megaott.cx:80/996325485901473/628609216682000/188870
-#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="|BEIN-SP| beIN Sports PREMIUM 3 FHD" tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium3.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 3 FHD
+#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="beIN 3 FHD" tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium3.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 3 FHD
 http://megaott.cx:80/996325485901473/628609216682000/188871
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="|BEIN-SP| beIN Sports PREMIUM 1 HEVC" tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium1.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 1 HEVC
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="beIN 1 HEVC" tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium1.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 1 HEVC
 http://megaott.cx:80/996325485901473/628609216682000/375695
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="|BEIN-SP| beIN Sports PREMIUM 2 HEVC " tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium2.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 2 HEVC 
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="beIN 2 HEVC " tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium2.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 2 HEVC 
 http://megaott.cx:80/996325485901473/628609216682000/18168
-#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="|BEIN-SP| beIN Sports PREMIUM 3 HEVC" tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium3.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 3 HEVC
+#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="beIN 3 HEVC" tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium3.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 3 HEVC
 http://megaott.cx:80/996325485901473/628609216682000/18167
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="|BEIN-SP| beIN Sports PREMIUM 1 HD " tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium1.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 1 HD 
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="beIN 1 HD " tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium1.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 1 HD 
 http://megaott.cx:80/996325485901473/628609216682000/18156
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="|BEIN-SP| beIN Sports PREMIUM 2 HD" tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium2.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 2 HD
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="beIN 2 HD" tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium2.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 2 HD
 http://megaott.cx:80/996325485901473/628609216682000/18155
-#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="|BEIN-SP| beIN Sports PREMIUM 3 HD" tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium3.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 3 HD
+#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="beIN 3 HD" tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium3.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 3 HD
 http://megaott.cx:80/996325485901473/628609216682000/18154
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="|BEIN-SP| beIN Sports PREMIUM 1 SD " tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium1.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 1 SD 
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="beIN 1 SD " tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium1.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 1 SD 
 http://megaott.cx:80/996325485901473/628609216682000/18184
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="|BEIN-SP| beIN Sports PREMIUM 2 SD" tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium2.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 2 SD
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="beIN 2 SD" tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium2.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 2 SD
 http://megaott.cx:80/996325485901473/628609216682000/18185
-#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="|BEIN-SP| beIN Sports PREMIUM 3 SD " tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium3.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 3 SD 
+#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="beIN 3 SD " tvg-logo="https://logo.megaott.net/BEINSPORTS/BSpremium3.png" group-title="AR | BEIN SPORTS",|BEIN-SP| beIN Sports PREMIUM 3 SD 
 http://megaott.cx:80/996325485901473/628609216682000/18186
 #EXTINF:0,1HD
 http://topiptv.net:5890/abcd/123456/16
