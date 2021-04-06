@@ -34,3 +34,32 @@ http://ostv.site:8080/zero/zero/2?source:iptvmate.netero/3?source:iptvmate.net
 #EXTINF:0 tvg-country="eur" tvg-logo="https://images.iptvmate.net/playlists/3122.jpg" group-title="Europe",BEIN SPORTS 2 HD
 http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/80397?source:iptvmate.net
 
+
+#EXTINF:0,AR | BEIN SPORTS Ñ
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66739
+#EXTINF:0,AR | Bein Sports Ñ HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66740
+#EXTINF:0,AR | BEIN SPORTS Ñ
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66672
+#EXTINF:0,AR | Bein Sports 1
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66674
+#EXTINF:0,AR | Bein Sports 4
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66675
+#EXTINF:0,AR | Bein Sports 5
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66676
+#EXTINF:0,AR | Bein Sports 6
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66677
+#EXTINF:0,ES | EUROSPORTS
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66692
+#EXTINF:0,ES | EUROSPORTS HD
+#EXTGRP:Argentina
+http://51.222.105.31:8080/emilce08022021/PwqxkxDsYj/66691
+
