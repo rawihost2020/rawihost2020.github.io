@@ -23,3 +23,14 @@ http://topiptv.net:5890/abcd/123456/17
 http://topiptv.net:5890/abcd/123456/18
 #EXTINF:0,4HD
 http://topiptv.net:5890/abcd/123456/19
+
+#EXTINF:0 tvg-country="eur" tvg-logo="https://images.iptvmate.net/playlists/1873.jpg" group-title="Europe",BEIN SPORTS 3 HD
+http://rv.imax.re:80/2773394744/2331282131/80396?source:iptvmate.net
+#EXTINF:0 tvg-country="eur" tvg-logo="https://images.iptvmate.net/playlists/2020.jpg" group-title="Europe",BEIN SPORTS 3 [SD]
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/334261d8ed50e1a.m3u8?source:iptvmate.net
+#EXTINF:0 tvg-country="eur" tvg-logo="https://images.iptvmate.net/playlists/2318.jpg" group-title="Europe",beIN SPORTS 1 FHD
+http://ostv.site:8080/zero/z#EXTINF:0 tvg-country="eur" tvg-logo="https://images.iptvmate.net/playlists/2674.jpg" group-title="Europe",beIN SPORTS 1 HD (H265)
+http://ostv.site:8080/zero/zero/2?source:iptvmate.netero/3?source:iptvmate.net
+#EXTINF:0 tvg-country="eur" tvg-logo="https://images.iptvmate.net/playlists/3122.jpg" group-title="Europe",BEIN SPORTS 2 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/80397?source:iptvmate.net
+
