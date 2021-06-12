@@ -79,4 +79,21 @@ http://mu03ye.wanicelife.com:8880/YALM4654/89076352/2131
 http://mu03ye.wanicelife.com:8880/YALM4654/89076352/2130
 #EXTINF:-1 tvg-id="bein.sports.12.ae" tvg-name="BN013:BeIN Sport 12 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN013BeINSport12.png" group-title="Arab Bein",BN013:BeIN Sport 12 HD
 http://mu03ye.wanicelife.com:8880/YALM4654/89076352/2129
-
+#EXTINF:-1 tvg-id="bein.sports.max.4.fr" tvg-name="FR009:Bein Sport 4 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR009BeinSport4Max.png" group-title="FR Sports",FR009:Bein Sport 4 Max
+http://mu03ye.wanicelife.com:8880/YALM4654/89076352/2857
+#EXTINF:-1 tvg-id="bein.sports.max.10.fr" tvg-name="FR010:Bein Sport 10 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR010BeinSport10Max.png" group-title="FR Sports",FR010:Bein Sport 10 Max
+http://mu03ye.wanicelife.com:8880/YALM4654/89076352/2856
+#EXTINF:-1 tvg-id="bein.sports.max.5.fr" tvg-name="FR011:Bein Sport 5 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR011BeinSport5Max.png" group-title="FR Sports",FR011:Bein Sport 5 Max
+http://mu03ye.wanicelife.com:8880/YALM4654/89076352/2855
+#EXTINF:-1 tvg-id="bein.sports.max.6.fr" tvg-name="FR012:Bein Sport 6 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR012BeinSport6Max.png" group-title="FR Sports",FR012:Bein Sport 6 Max
+http://mu03ye.wanicelife.com:8880/YALM4654/89076352/2854
+#EXTINF:-1 tvg-id="bein.sports.max.7.fr" tvg-name="FR013:Bein Sport 7 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR013BeinSport7Max.png" group-title="FR Sports",FR013:Bein Sport 7 Max
+http://mu03ye.wanicelife.com:8880/YALM4654/89076352/2853
+#EXTINF:-1 tvg-id="bein.sports.max.8.fr" tvg-name="FR014:Bein Sport 8 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR014BeinSport8Max.png" group-title="FR Sports",FR014:Bein Sport 8 Max
+http://mu03ye.wanicelife.com:8880/YALM4654/89076352/2852
+#EXTINF:-1 tvg-id="bein.sports.max.9.fr" tvg-name="FR015:Bein Sport 9 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR015BeinSport9Max.png" group-title="FR Sports",FR015:Bein Sport 9 Max
+http://mu03ye.wanicelife.com:8880/YALM4654/89076352/2851
+#EXTINF:-1 tvg-id="bein.sports.max.1.tr" tvg-name="TR188:beIN Sports Max 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR188beINSportsMax1FHD.png" group-title="TR Sports",TR188:beIN Sports Max 1 FHD
+http://mu03ye.wanicelife.com:8880/YALM4654/89076352/32881
+#EXTINF:-1 tvg-id="bein.sports.max.2.tr" tvg-name="TR189:beIN Sports Max 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR189beINSportsMax2FHD.png" group-title="TR Sports",TR189:beIN Sports Max 2 FHD
+http://mu03ye.wanicelife.com:8880/YALM4654/89076352/32880
