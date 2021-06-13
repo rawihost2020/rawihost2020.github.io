@@ -111,3 +111,24 @@ http://mu03ye.wanicelife.com:8880/YALM4654/89076352/59269
 http://mu03ye.wanicelife.com:8880/YALM4654/89076352/59268
 #EXTINF:-1 tvg-id="bein.sports.5.ae" tvg-name="BN032:Bein Sport 5 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN032BeinSport5FHD.png" group-title="Arab Bein",BN032:Bein Sport 5 FHD
 http://mu03ye.wanicelife.com:8880/YALM4654/89076352/59267
+
+#EXTINF:-1 group-title="rico", bein sport max 4 fr
+http://ricoootv.xyz:8080/rico/rico/86
+#EXTINF:-1 group-title="rico", bein sport max 5 fr
+http://ricoootv.xyz:8080/rico/rico/87
+#EXTINF:-1 group-title="rico", bein sport max 6 fr
+http://ricoootv.xyz:8080/rico/rico/88
+#EXTINF:-1 group-title="rico", bein sport max 7 sd
+http://ricoootv.xyz:8080/rico/rico/89
+#EXTINF:-1 group-title="rico", BEIN SPORT MAX 1 4K
+http://ricoootv.xyz:8080/rico/rico/137
+#EXTINF:-1 group-title="rico", BEIN SPORT MAX 2 4K
+http://ricoootv.xyz:8080/rico/rico/138
+#EXTINF:-1 group-title="rico", BEIN SPORT MAX 3 4K
+http://ricoootv.xyz:8080/rico/rico/139
+#EXTINF:-1 group-title="rico", BEIN SPORT MAX 4 4K
+http://ricoootv.xyz:8080/rico/rico/140
+#EXTINF:-1 group-title="rico", BEIN SPORT MAX 5 4K
+http://ricoootv.xyz:8080/rico/rico/141
+#EXTINF:-1 group-title="rico", BEIN SPORT MAX 6 4K
+http://ricoootv.xyz:8080/rico/rico/142
