@@ -140,4 +140,7 @@ http://ricoootv.xyz:8080/rico/rico/142
 http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4397.ts
 #EXTINF:-1 group-title="GOLDEN SPOR",TR | GLDN beIN 2 Max [VIP]
 http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4398.ts
-
+#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | GLDN BeIN Max 1 Plus
+http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4399.ts
+#EXTINF:-1 group-title="GOLDEN SPOR" tvg-logo="http://127.0.0.1/",TR | GLDN BeIN MAX 2 Plus
+http://sizlerdegeleceksinizbizlergibi.goldentv.eu:8899/live/lyOgyE6yUH/QjRd1x5UhZ/4400.ts
